@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my first stream!",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is my second stream",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "This is my third stream",
+      "userId": "115256389207051498062",
+      "id": 3
+    },
+    {
+      "title": "Programatically navigation",
+      "description": "You should not see this",
+      "userId": "115256389207051498062",
+      "id": 4
+    },
+    {
+      "title": "Refactored Form",
+      "description": "We can reuse it for now",
+      "id": 5
+    }
+  ]
+}
